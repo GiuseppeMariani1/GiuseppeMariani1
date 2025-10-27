@@ -2,5 +2,4 @@
 
 Currently working on python projects for the bloomberg trading competition, and the KCL investment fund.
 Most of my projects will be aimed to help support a portfolio or trading strategy as well as some other miscelaneous ideas I might have!
-<!--
-**GiuseppeMariani1/GiuseppeMariani1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
