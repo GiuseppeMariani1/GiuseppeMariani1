@@ -1,5 +1,7 @@
-## Hi to anyone reading this
+## Hi 
 
-Currently working on python projects for the bloomberg trading competition, and the KCL investment fund.
-Most of my projects will be aimed to help support a portfolio or trading strategy as well as some other miscelaneous ideas I might have!
+Compiling moslty python porjects related to my studies at KCL.
+Some C++ is also in the works, mostly related to my research in TDA.
+
+Have fun looking at my work:)
 
